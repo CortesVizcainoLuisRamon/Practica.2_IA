@@ -4,8 +4,6 @@ Implementación de los algoritmos **A\*** y **Simulated Annealing** aplicados al
 
 ---
 
----
-
 ## Descripción
 
 Esta práctica implementa dos familias de algoritmos de búsqueda inteligente:
