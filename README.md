@@ -1,4 +1,4 @@
-# Práctica 2 — Búsqueda Informada
+# Búsqueda Informada
 
 Implementación de los algoritmos **A\*** y **Simulated Annealing** aplicados al 8-puzzle, 15-puzzle y Sudoku, con interfaz gráfica interactiva construida en Tkinter y comparación de rendimiento entre heurísticas y algoritmos.
 
