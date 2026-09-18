@@ -4,18 +4,6 @@ Implementación de los algoritmos **A\*** y **Simulated Annealing** aplicados al
 
 ---
 
-## Contenido
-
-- [Descripción](#descripción)
-- [Estructura del proyecto](#estructura-del-proyecto)
-- [Algoritmos implementados](#algoritmos-implementados)
-- [Heurísticas](#heurísticas)
-- [Requisitos](#requisitos)
-- [Instalación y ejecución](#instalación-y-ejecución)
-- [Ejecución con Docker](#ejecución-con-docker)
-- [Tests](#tests)
-- [GitHub Actions](#github-actions)
-
 ---
 
 ## Descripción
